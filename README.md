@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me: rozaviniciusdeveloper@gmail.com
+- 🏠 I'm from Brazil
 - 😄 Pronouns: He/His
 
  <div>
